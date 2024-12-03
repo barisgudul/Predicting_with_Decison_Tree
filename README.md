@@ -26,10 +26,6 @@ pip install pandas numpy matplotlib scikit-learn
 2. Ensure the dataset (`Position_Salaries.csv`) is in the same directory as the Jupyter Notebook or Python script.
 3. Open and run the Jupyter Notebook (`Decision Tree.ipynb`) to train the model and generate predictions.
 
-Alternatively, you can run the script using:
-```bash
-python decision_tree_script.py
-```
 
 ## Project Structure
 ```
